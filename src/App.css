@@ -242,3 +242,23 @@ main {
 .certificate__link:hover {
   text-decoration: underline;
 }
+
+/* Media Query untuk Layar Kecil */
+@media (max-width: 600px) {
+  .certificate {
+    padding: 10px;
+  }
+
+  .certificate__name {
+    font-size: 1rem; /* Menurunkan ukuran font pada layar kecil */
+  }
+
+  .certificate__organization,
+  .certificate__date {
+    font-size: 0.85rem;
+  }
+
+  .certificate__link {
+    font-size: 0.85rem;
+  }
+}
