@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Aliyudin-Portfolio/static/css/main.0b71e7e8.chunk.css",
+    "main.css": "/Aliyudin-Portfolio/static/css/main.df2c2fb2.chunk.css",
     "main.js": "/Aliyudin-Portfolio/static/js/main.e1f49a83.chunk.js",
     "main.js.map": "/Aliyudin-Portfolio/static/js/main.e1f49a83.chunk.js.map",
     "runtime-main.js": "/Aliyudin-Portfolio/static/js/runtime-main.092cbd11.js",
@@ -8,7 +8,7 @@
     "static/js/2.3f34520e.chunk.js": "/Aliyudin-Portfolio/static/js/2.3f34520e.chunk.js",
     "static/js/2.3f34520e.chunk.js.map": "/Aliyudin-Portfolio/static/js/2.3f34520e.chunk.js.map",
     "index.html": "/Aliyudin-Portfolio/index.html",
-    "static/css/main.0b71e7e8.chunk.css.map": "/Aliyudin-Portfolio/static/css/main.0b71e7e8.chunk.css.map",
+    "static/css/main.df2c2fb2.chunk.css.map": "/Aliyudin-Portfolio/static/css/main.df2c2fb2.chunk.css.map",
     "static/js/2.3f34520e.chunk.js.LICENSE.txt": "/Aliyudin-Portfolio/static/js/2.3f34520e.chunk.js.LICENSE.txt",
     "static/media/51c35d61-6ffa-46be-8fce-fb07e1704879.21ac344a.jpg": "/Aliyudin-Portfolio/static/media/51c35d61-6ffa-46be-8fce-fb07e1704879.21ac344a.jpg",
     "static/media/87ba3f07-58da-445b-a624-420f60338e52.c9c36816.jpg": "/Aliyudin-Portfolio/static/media/87ba3f07-58da-445b-a624-420f60338e52.c9c36816.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.092cbd11.js",
     "static/js/2.3f34520e.chunk.js",
-    "static/css/main.0b71e7e8.chunk.css",
+    "static/css/main.df2c2fb2.chunk.css",
     "static/js/main.e1f49a83.chunk.js"
   ]
 }
