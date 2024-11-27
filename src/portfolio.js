@@ -88,7 +88,7 @@ const skills = [
 ];
 
 const contact = {
-  email: 'muhamadaliyudin@example.com',
+  email: 'muhamadaliyudin62@gmail.com',
 };
 
 const certificates = [
