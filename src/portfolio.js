@@ -70,7 +70,15 @@ const projects = [
     description: 'I am a web developer with expertise in Node.js, building fast, scalable, and efficient web applications. With experience in backend development and APIs, I create robust and reliable digital solutions.',
     stack: ['JavaScript 69.5%', 'CSS 27.8%', 'HTML2.7%'],
     sourceCode: 'https://github.com/Alydn62/Aliyudin-Portfolio',
-    livePreview: 'https://alydn62.github.com/Aliyudin-Portfolio',
+    livePreview: 'https://alydn62.github.io/Aliyudin-Portfolio/',
+    image: Portfolio1,
+  },
+  {
+    name: 'Portfolio',
+    description: 'I am a web developer with expertise in Node.js, building fast, scalable, and efficient web applications. With experience in backend development and APIs, I create robust and reliable digital solutions.',
+    stack: ['JavaScript 69.5%', 'CSS 27.8%', 'HTML2.7%'],
+    sourceCode: 'https://github.com/Alydn62/Aliyudin-Portfolio',
+    livePreview: 'https://alydn62.github.io/Aliyudin-Portfolio/',
     image: Portfolio1,
   },
 ];
