@@ -9,6 +9,7 @@ import sertifikatHtml from './components/Img/896fe24d-9200-4c4d-9bb1-d2634868363
 import sertifikatCss from './components/Img/89ff1d91-7ca8-49cf-a7f7-e23f0033824f.jpg'; // Impor gambar
 import sertifikatJavascript1 from './components/Img/51c35d61-6ffa-46be-8fce-fb07e1704879.jpg'; // Impor gambar
 import sertifikatJavascript2 from './components/Img/87ba3f07-58da-445b-a624-420f60338e52.jpg'; // Impor gambar
+import Snake from './components/Img/snake.png'; // Impor gambar
 
 const header = {
   title: <img src={User} alt="Aliyudin" style={{ maxWidth: '50px', height: 'auto', borderRadius: '100%'}} />, // Using an image instead of text
@@ -68,18 +69,18 @@ const projects = [
   {
     name: 'Portfolio',
     description: 'I am a web developer with expertise in Node.js, building fast, scalable, and efficient web applications. With experience in backend development and APIs, I create robust and reliable digital solutions.',
-    stack: ['JavaScript 69.5%', 'CSS 27.8%', 'HTML2.7%'],
+    stack: ['JavaScript 69.2%', 'CSS 28.2%', 'HTML2.6%'],
     sourceCode: 'https://github.com/Alydn62/Aliyudin-Portfolio',
     livePreview: 'https://alydn62.github.io/Aliyudin-Portfolio/',
     image: Portfolio1,
   },
   {
-    name: 'Portfolio',
-    description: 'I am a web developer with expertise in Node.js, building fast, scalable, and efficient web applications. With experience in backend development and APIs, I create robust and reliable digital solutions.',
-    stack: ['JavaScript 69.5%', 'CSS 27.8%', 'HTML2.7%'],
-    sourceCode: 'https://github.com/Alydn62/Aliyudin-Portfolio',
-    livePreview: 'https://alydn62.github.io/Aliyudin-Portfolio/',
-    image: Portfolio1,
+    name: 'Snake Game',
+    description: 'Challenge yourself to control the snake, eat the food, and avoid crashing into the walls or its own body. The longer it gets, the more fun it becomes!.',
+    stack: ['JavaScript 51.9%', 'CSS35.4%', 'HTML12.7%'],
+    sourceCode: 'https://github.com/Alydn62/Snake',
+    livePreview: 'https://alydn62.github.io/Snake/',
+    image: Snake,
   },
 ];
 
