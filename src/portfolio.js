@@ -3,12 +3,14 @@ import Caltulator from './components/Img/calculator.png'; // Impor gambar
 import AdminPanel from './components/Img/Admin-panel.png'; // Impor gambar
 import PortfolioTailwind from './components/Img/portfolio-tailwind.png'; // Impor gambar
 import BlogHugo from './components/Img/Blog-Hugo.png'; // Impor gambar
+import Dashboard from './components/Img/dashboard.jpg'; // Impor gambar
 import Portfolio1 from './components/Img/portfolio-1.png'; // Impor gambar
 import User from './components/Img/user2-160x160.jpg'; // Impor gambar
 import sertifikatHtml from './components/Img/896fe24d-9200-4c4d-9bb1-d26348683633.jpg'; // Impor gambar
 import sertifikatCss from './components/Img/89ff1d91-7ca8-49cf-a7f7-e23f0033824f.jpg'; // Impor gambar
 import sertifikatJavascript1 from './components/Img/51c35d61-6ffa-46be-8fce-fb07e1704879.jpg'; // Impor gambar
 import sertifikatJavascript2 from './components/Img/87ba3f07-58da-445b-a624-420f60338e52.jpg'; // Impor gambar
+import Wordpress from './components/Img/{011D5C0B-47FD-458C-84B4-CC84C7FC07BC}.png'; // Impor gambar
 import Snake from './components/Img/snake.png'; // Impor gambar
 
 const header = {
@@ -77,10 +79,24 @@ const projects = [
   {
     name: 'Snake Game',
     description: 'Challenge yourself to control the snake, eat the food, and avoid crashing into the walls or its own body. The longer it gets, the more fun it becomes!.',
-    stack: ['JavaScript 51.9%', 'CSS35.4%', 'HTML12.7%'],
+    stack: ['JavaScript 51.9%', 'CSS 35.4%', 'HTML 12.7%'],
     sourceCode: 'https://github.com/Alydn62/Snake',
     livePreview: 'https://alydn62.github.io/Snake/',
     image: Snake,
+  },
+  {
+    name: 'Dashboard',
+    description: 'Access all the essential features with just one click! Easily manage tasks, reports, and settings',
+    stack: ['JavaScript 66.1%', 'CSS 19.2%', 'HTML 14.7%'],
+    sourceCode: 'https://github.com/Alydn62/Dashboard',
+    livePreview: 'https://alydn62.github.io/Dashboard/',
+    image: Dashboard,
+  },
+  {
+    name: 'Wordpress',
+    description: 'High Quality, Affordable Prices, Ready to Support Your Work.',
+    livePreview: 'https://satu.unpam.tech/',
+    image: Wordpress,
   },
 ];
 
