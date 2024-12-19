@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Aliyudin-Portfolio/static/css/main.df2c2fb2.chunk.css",
-    "main.js": "/Aliyudin-Portfolio/static/js/main.f011d4e9.chunk.js",
-    "main.js.map": "/Aliyudin-Portfolio/static/js/main.f011d4e9.chunk.js.map",
+    "main.js": "/Aliyudin-Portfolio/static/js/main.009766ed.chunk.js",
+    "main.js.map": "/Aliyudin-Portfolio/static/js/main.009766ed.chunk.js.map",
     "runtime-main.js": "/Aliyudin-Portfolio/static/js/runtime-main.092cbd11.js",
     "runtime-main.js.map": "/Aliyudin-Portfolio/static/js/runtime-main.092cbd11.js.map",
     "static/js/2.3f34520e.chunk.js": "/Aliyudin-Portfolio/static/js/2.3f34520e.chunk.js",
@@ -23,12 +23,13 @@
     "static/media/portfolio-tailwind.5943ac5d.png": "/Aliyudin-Portfolio/static/media/portfolio-tailwind.5943ac5d.png",
     "static/media/snake.0ca0f511.png": "/Aliyudin-Portfolio/static/media/snake.0ca0f511.png",
     "static/media/user2-160x160.33e7326a.jpg": "/Aliyudin-Portfolio/static/media/user2-160x160.33e7326a.jpg",
-    "static/media/{011D5C0B-47FD-458C-84B4-CC84C7FC07BC}.86b38e56.png": "/Aliyudin-Portfolio/static/media/{011D5C0B-47FD-458C-84B4-CC84C7FC07BC}.86b38e56.png"
+    "static/media/{011D5C0B-47FD-458C-84B4-CC84C7FC07BC}.86b38e56.png": "/Aliyudin-Portfolio/static/media/{011D5C0B-47FD-458C-84B4-CC84C7FC07BC}.86b38e56.png",
+    "static/media/{7D665924-5935-4027-831D-B02D02AF7E37}.2334984a.png": "/Aliyudin-Portfolio/static/media/{7D665924-5935-4027-831D-B02D02AF7E37}.2334984a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.092cbd11.js",
     "static/js/2.3f34520e.chunk.js",
     "static/css/main.df2c2fb2.chunk.css",
-    "static/js/main.f011d4e9.chunk.js"
+    "static/js/main.009766ed.chunk.js"
   ]
 }
