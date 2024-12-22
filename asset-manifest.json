@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Aliyudin-Portfolio/static/css/main.df2c2fb2.chunk.css",
+    "main.js": "/Aliyudin-Portfolio/static/js/main.d1ccd3e1.chunk.js",
+    "main.js.map": "/Aliyudin-Portfolio/static/js/main.d1ccd3e1.chunk.js.map",
+    "runtime-main.js": "/Aliyudin-Portfolio/static/js/runtime-main.092cbd11.js",
+    "runtime-main.js.map": "/Aliyudin-Portfolio/static/js/runtime-main.092cbd11.js.map",
+    "static/js/2.3f34520e.chunk.js": "/Aliyudin-Portfolio/static/js/2.3f34520e.chunk.js",
+    "static/js/2.3f34520e.chunk.js.map": "/Aliyudin-Portfolio/static/js/2.3f34520e.chunk.js.map",
+    "index.html": "/Aliyudin-Portfolio/index.html",
+    "static/css/main.df2c2fb2.chunk.css.map": "/Aliyudin-Portfolio/static/css/main.df2c2fb2.chunk.css.map",
+    "static/js/2.3f34520e.chunk.js.LICENSE.txt": "/Aliyudin-Portfolio/static/js/2.3f34520e.chunk.js.LICENSE.txt",
+    "static/media/51c35d61-6ffa-46be-8fce-fb07e1704879.21ac344a.jpg": "/Aliyudin-Portfolio/static/media/51c35d61-6ffa-46be-8fce-fb07e1704879.21ac344a.jpg",
+    "static/media/87ba3f07-58da-445b-a624-420f60338e52.c9c36816.jpg": "/Aliyudin-Portfolio/static/media/87ba3f07-58da-445b-a624-420f60338e52.c9c36816.jpg",
+    "static/media/896fe24d-9200-4c4d-9bb1-d26348683633.04187195.jpg": "/Aliyudin-Portfolio/static/media/896fe24d-9200-4c4d-9bb1-d26348683633.04187195.jpg",
+    "static/media/89ff1d91-7ca8-49cf-a7f7-e23f0033824f.457a177b.jpg": "/Aliyudin-Portfolio/static/media/89ff1d91-7ca8-49cf-a7f7-e23f0033824f.457a177b.jpg",
+    "static/media/Admin-panel.1fd3efc8.png": "/Aliyudin-Portfolio/static/media/Admin-panel.1fd3efc8.png",
+    "static/media/Blog-Hugo.f5a52dd0.png": "/Aliyudin-Portfolio/static/media/Blog-Hugo.f5a52dd0.png",
+    "static/media/calculator.96f59632.png": "/Aliyudin-Portfolio/static/media/calculator.96f59632.png",
+    "static/media/login-1.753435cf.jpg": "/Aliyudin-Portfolio/static/media/login-1.753435cf.jpg",
+    "static/media/portfolio-1.32904444.png": "/Aliyudin-Portfolio/static/media/portfolio-1.32904444.png",
+    "static/media/portfolio-tailwind.5943ac5d.png": "/Aliyudin-Portfolio/static/media/portfolio-tailwind.5943ac5d.png",
+    "static/media/snake.05245a7d.png": "/Aliyudin-Portfolio/static/media/snake.05245a7d.png",
+    "static/media/user2-160x160.33e7326a.jpg": "/Aliyudin-Portfolio/static/media/user2-160x160.33e7326a.jpg",
+    "static/media/{011D5C0B-47FD-458C-84B4-CC84C7FC07BC}.86b38e56.png": "/Aliyudin-Portfolio/static/media/{011D5C0B-47FD-458C-84B4-CC84C7FC07BC}.86b38e56.png",
+    "static/media/{7D665924-5935-4027-831D-B02D02AF7E37}.2334984a.png": "/Aliyudin-Portfolio/static/media/{7D665924-5935-4027-831D-B02D02AF7E37}.2334984a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.092cbd11.js",
+    "static/js/2.3f34520e.chunk.js",
+    "static/css/main.df2c2fb2.chunk.css",
+    "static/js/main.d1ccd3e1.chunk.js"
+  ]
+}
