@@ -18,11 +18,11 @@ const Contact = () => {
           width="600"
           height="450"
           style={{ border: 0 }}
-          allowFullScreen=""
+          allowFullScreen
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
           title="Pamulang University Campus 2 Location"
-        ></iframe>
+        />
       </div>
     </section>
   )
