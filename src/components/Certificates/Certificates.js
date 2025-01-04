@@ -1,18 +1,30 @@
-import React from 'react';
+import React, { useState } from 'react';
+import uniqid from 'uniqid';
 import { certificates } from '../../portfolio';
 import '../../App.css';
 
 const Certificates = () => {
-  if (!certificates.length) return null;
+  const [category, setCategory] = useState('SEMUA'); // Menyimpan kategori yang dipilih
+
+  // Filter sertifikat berdasarkan kategori yang dipilih
+  const filteredCertificates = category === 'SEMUA'
+    ? certificates
+    : certificates.filter(certificate => certificate.category === category);
 
   return (
     <section id="certificates" className="section certificates">
       <h2 className="section__title">Certificates</h2>
 
+      <div className="filter-buttons">
+        <button type="button" onClick={() => setCategory('SEMUA')}>Semua</button>
+        <button type="button" onClick={() => setCategory('HTML')}>HTML</button>
+        <button type="button" onClick={() => setCategory('CSS')}>CSS</button>
+        <button type="button" onClick={() => setCategory('JavaScript')}>JavaScript</button>
+      </div>
+
       <div className="certificates__grid">
-        {certificates.map((certificate) => (
-          <div key={certificate.id} className="certificate">
-            {/* Tambahkan gambar sertifikat */}
+        {filteredCertificates.map((certificate) => (
+          <div key={uniqid()} className="certificate">
             {certificate.image && (
               <img
                 src={certificate.image}
