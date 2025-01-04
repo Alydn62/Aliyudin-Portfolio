@@ -119,30 +119,35 @@ const certificates = [
     name: 'Introduction to HTML',
     organization: 'Sololearn',
     date: 'November 2024',
+    category: 'HTML',
     link: 'https://www.sololearn.com/certificates/CC-9JZKICJJ',
-    image: sertifikatHtml
+    image: sertifikatHtml,
   },
   {
     name: 'Introduction to CSS',
     organization: 'Sololearn',
     date: 'November 2024',
+    category: 'CSS',
     link: 'https://www.sololearn.com/certificates/CC-A95YZNFA',
-    image: sertifikatCss
+    image: sertifikatCss,
   },
   {
     name: 'Introduction to JavaScript',
     organization: 'Sololearn',
     date: 'November 2024',
+    category: 'JavaScript',
     link: 'https://www.sololearn.com/certificates/CC-JXRFUSND',
-    image: sertifikatJavascript1
+    image: sertifikatJavascript1,
   },
   {
     name: 'JavaScript Intermediate',
     organization: 'Sololearn',
     date: 'November 2024',
+    category: 'JavaScript',
     link: 'https://www.sololearn.com/certificates/CC-0YWVL48K',
-    image: sertifikatJavascript2
+    image: sertifikatJavascript2,
   },
 ];
+
 
 export { header, about, projects, skills, contact, certificates };
