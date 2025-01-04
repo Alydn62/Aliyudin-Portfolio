@@ -14,47 +14,41 @@ import DashboardTahunan from './components/Img/{7D665924-5935-4027-831D-B02D02AF
 import Snake from './components/Img/snake.png'; // Impor gambar
 
 const header = {
-  title: <img src={User} alt="Aliyudin" style={{ maxWidth: '50px', height: 'auto', borderRadius: '100%'}} />, // Using an image instead of text
-
+  title: <img src={User} alt="Aliyudin" style={{ maxWidth: '50px', height: 'auto', borderRadius: '100%'}} />,
 };
 
 const about = {
   name: 'Muhamad Aliyudin',
   role: 'Front End Developer.',
-  description: 'I craft responsive and visually engaging web applications that blend functionality with exceptional user experiences. Combining creativity and technical expertise, I transform ideas into intuitive interfaces that inspire, connect, and deliver value in today’s digital world.',
+  description: 'I craft responsive and visually engaging web applications...',
   social: {
-    github: 'https://github.com/Alydn62', // Ganti dengan profil GitHub Anda
+    github: 'https://github.com/Alydn62',
   },
 };
 
 const projects = [
   {
     name: 'Form Login(TUGAS)',
-    description: 'The image shows a minimalist login interface with two input fields for username and password, along with a Login button. The design is modern with a gradient purple background.',
+    category: 'TUGAS',  // Menambahkan kategori
+    description: 'The image shows a minimalist login interface...',
     stack: ['CSS 70.3%', 'HTML 29.7%'],
-    sourceCode: 'https://github.com/Alydn62/Login_Pemrograman' ,
+    sourceCode: 'https://github.com/Alydn62/Login_Pemrograman',
     livePreview: 'https://login-pemrograman.vercel.app/',
     image: loginImage,
   },
   {
     name: 'Caltulator(TUGAS)',
-    description: 'Fast, easy, and accurate—our calculator helps you perform various calculations anytime, anywhere. Enjoy quick and precise results in just a few clicks.',
+    category: 'TUGAS',  // Menambahkan kategori
+    description: 'Fast, easy, and accurate—our calculator...',
     stack: ['JavaScript 42.7%', 'CSS 30.6%', 'HTML 26.7%'],
     sourceCode: 'https://github.com/Alydn62/Calculator',
     livePreview: 'https://alydn62.github.io/Calculator/',
     image: Caltulator,
   },
   {
-    name: 'Admin Panel(TUGAS)',
-    description: 'Easily manage, monitor, and control all aspects of your platform. Access data, analytics, and full control in one place for maximum efficiency.',
-    stack: ['JavaScript 91.4%', 'CSS 5.6%', 'SCSS 1.8%', 'HTML 1.2%'],
-    sourceCode: 'https://github.com/Alydn62/Muhamad-Aliyudin_CS05TPLE003',
-    livePreview: 'https://alydn62.github.io/Muhamad-Aliyudin_CS05TPLE003',
-    image: AdminPanel,
-  },
-  {
     name: 'Portfolio Tailwind',
-    description: 'Explore the projects I ve worked on and see how I can help bring your ideas to life with clean, efficient, and user-focused web solutions.',
+    category: 'NONTUGAS',  // Menambahkan kategori
+    description: 'Explore the projects I ve worked on...',
     stack: ['HTML 93.8%', 'CSS 5.1%', 'JavaScript 1.1%'],
     sourceCode: 'https://github.com/alydn20/Portfolio',
     livePreview: 'https://alydn20.github.io/Portfolio/',
@@ -62,7 +56,8 @@ const projects = [
   },
   {
     name: 'Blogger',
-    description: 'Here, I share articles on a variety of topics, from technology and lifestyle to useful tips for everyday life. This blog is a place to learn, share experiences, and discover new things that can enrich your knowledge.',
+    category: 'NONTUGAS',  // Menambahkan kategori
+    description: 'Here, I share articles on a variety of topics...',
     stack: ['CSS 71.3%', 'HTML 27.5%', 'JavaScript 1.2%'],
     sourceCode: 'https://github.com/alydn20/komnas',
     livePreview: 'https://alydn20.github.io/komnas/',
@@ -70,7 +65,8 @@ const projects = [
   },
   {
     name: 'Portfolio(TUGAS)',
-    description: 'I am a web developer with expertise in Node.js, building fast, scalable, and efficient web applications. With experience in backend development and APIs, I create robust and reliable digital solutions.',
+    category: 'TUGAS',  // Menambahkan kategori
+    description: 'I am a web developer with expertise in Node.js...',
     stack: ['JavaScript 70.2%', 'CSS 27.3%', 'HTML 2.5%'],
     sourceCode: 'https://github.com/Alydn62/Aliyudin-Portfolio',
     livePreview: 'https://alydn62.github.io/Aliyudin-Portfolio/',
@@ -78,7 +74,8 @@ const projects = [
   },
   {
     name: 'Snake Game(TUGAS)',
-    description: 'Challenge yourself to control the snake, eat the food, and avoid crashing into the walls or its own body. The longer it gets, the more fun it becomes!.',
+    category: 'TUGAS',  // Menambahkan kategori
+    description: 'Challenge yourself to control the snake...',
     stack: ['JavaScript 51.9%', 'CSS 35.4%', 'HTML 12.7%'],
     sourceCode: 'https://github.com/Alydn62/Snake',
     livePreview: 'https://alydn62.github.io/Snake/',
@@ -86,7 +83,8 @@ const projects = [
   },
   {
     name: 'Chart Dashboard Penjualan(TUGAS)',
-    description: 'Trendy analysis and sales comparison 2022-2023, monthly insights for strategic decision-making visualization.',
+    category: 'TUGAS',  // Menambahkan kategori
+    description: 'Trendy analysis and sales comparison...',
     stack: ['JavaScript 51.4%', 'CSS 26.1%', 'HTML 22.5%'],
     sourceCode: 'https://github.com/Alydn62/dashboard-tahunan',
     livePreview: 'https://alydn62.github.io/dashboard-tahunan/',
@@ -94,23 +92,14 @@ const projects = [
   },
   {
     name: 'Wordpress(TUGAS)',
-    description: 'High Quality, Affordable Prices, Ready to Support Your Work.',
+    category: 'TUGAS',  // Menambahkan kategori
+    description: 'High Quality, Affordable Prices...',
     livePreview: 'https://satu.unpam.tech/',
     image: Wordpress,
   },
 ];
 
-const skills = [
-  'HTML',
-  'CSS',
-  'Bootstrap',
-  'Tailwind',
-  'JavaScript',
-  'React',
-  'Node.js',
-  'Git',
-  'Responsive Design',
-];
+const skills = ['HTML', 'CSS', 'Bootstrap', 'Tailwind', 'JavaScript', 'React', 'Node.js', 'Git', 'Responsive Design'];
 
 const contact = {
   email: 'muhamadaliyudin62@gmail.com',
@@ -123,13 +112,15 @@ const certificates = [
     date: 'November 2024',
     link: 'https://www.sololearn.com/certificates/CC-9JZKICJJ',
     image: sertifikatHtml
-  }, {
+  },
+  {
     name: 'Introduction to CSS',
     organization: 'Sololearn',
     date: 'November 2024',
     link: 'https://www.sololearn.com/certificates/CC-A95YZNFA',
     image: sertifikatCss
-  }, {
+  },
+  {
     name: 'Introduction to JavaScript',
     organization: 'Sololearn',
     date: 'November 2024',
@@ -145,5 +136,4 @@ const certificates = [
   },
 ];
 
-// Pastikan semua variabel diekspor
 export { header, about, projects, skills, contact, certificates };
