@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Aliyudin-Portfolio/static/css/main.ef08fd77.chunk.css",
-    "main.js": "/Aliyudin-Portfolio/static/js/main.e30800bb.chunk.js",
-    "main.js.map": "/Aliyudin-Portfolio/static/js/main.e30800bb.chunk.js.map",
+    "main.css": "/Aliyudin-Portfolio/static/css/main.43484655.chunk.css",
+    "main.js": "/Aliyudin-Portfolio/static/js/main.2bd72b82.chunk.js",
+    "main.js.map": "/Aliyudin-Portfolio/static/js/main.2bd72b82.chunk.js.map",
     "runtime-main.js": "/Aliyudin-Portfolio/static/js/runtime-main.092cbd11.js",
     "runtime-main.js.map": "/Aliyudin-Portfolio/static/js/runtime-main.092cbd11.js.map",
     "static/js/2.af2f1016.chunk.js": "/Aliyudin-Portfolio/static/js/2.af2f1016.chunk.js",
     "static/js/2.af2f1016.chunk.js.map": "/Aliyudin-Portfolio/static/js/2.af2f1016.chunk.js.map",
     "index.html": "/Aliyudin-Portfolio/index.html",
-    "static/css/main.ef08fd77.chunk.css.map": "/Aliyudin-Portfolio/static/css/main.ef08fd77.chunk.css.map",
+    "static/css/main.43484655.chunk.css.map": "/Aliyudin-Portfolio/static/css/main.43484655.chunk.css.map",
     "static/js/2.af2f1016.chunk.js.LICENSE.txt": "/Aliyudin-Portfolio/static/js/2.af2f1016.chunk.js.LICENSE.txt",
     "static/media/51c35d61-6ffa-46be-8fce-fb07e1704879.21ac344a.jpg": "/Aliyudin-Portfolio/static/media/51c35d61-6ffa-46be-8fce-fb07e1704879.21ac344a.jpg",
     "static/media/87ba3f07-58da-445b-a624-420f60338e52.c9c36816.jpg": "/Aliyudin-Portfolio/static/media/87ba3f07-58da-445b-a624-420f60338e52.c9c36816.jpg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.092cbd11.js",
     "static/js/2.af2f1016.chunk.js",
-    "static/css/main.ef08fd77.chunk.css",
-    "static/js/main.e30800bb.chunk.js"
+    "static/css/main.43484655.chunk.css",
+    "static/js/main.2bd72b82.chunk.js"
   ]
 }
