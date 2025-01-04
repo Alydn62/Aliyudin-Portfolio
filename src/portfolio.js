@@ -97,6 +97,15 @@ const projects = [
     livePreview: 'https://satu.unpam.tech/',
     image: Wordpress,
   },
+  {
+    name: 'Admin Panel(TUGAS)',
+    category: 'TUGAS',  // Menambahkan kategori
+    description: 'Easily manage, monitor, and control all aspects of your platform. Access data, analytics, and full control in one place for maximum efficiency.',
+    stack: ['JavaScript 91.4%', 'CSS 5.6%', 'SCSS 1.8%', 'HTML 1.2%'],
+    sourceCode: 'https://github.com/Alydn62/Muhamad-Aliyudin_CS05TPLE003',
+    livePreview: 'https://alydn62.github.io/Muhamad-Aliyudin_CS05TPLE003',
+    image: AdminPanel,
+  },
 ];
 
 const skills = ['HTML', 'CSS', 'Bootstrap', 'Tailwind', 'JavaScript', 'React', 'Node.js', 'Git', 'Responsive Design'];
